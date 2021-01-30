@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "Name":"Amit Kumar",
+        "Designation": "Software Developer",
+        "Salary":5000000
+    },
+    {
+        "id":2,
+        "Name":"Anuj Choudury",
+        "Designation": "Software Developer",
+        "Salary":8500000
+    },
+    {
+        "id": 3,
+        "Name":"Pavan Patil",
+        "Designation": "Backend Developer",
+        "Salary":5000000
+    },
+    {
+        "id": 4,
+        "Name":"suraj kumar",
+        "Designation": "Fullstack Developer",
+        "Salary":6000000
+    },
+    {
+        "id": 5,
+        "Name":"rahul joshi",
+        "Designation": "ui Developer",
+        "Salary":7000000
+    }
+]
